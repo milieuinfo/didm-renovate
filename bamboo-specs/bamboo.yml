@@ -2,7 +2,7 @@ project:
   key: WEBCOM
   plan:
     name: webcomponent-renovate
-    key: WC-REN
+    key: WCREN
 stages:
   - jobs:
       - scripts:
