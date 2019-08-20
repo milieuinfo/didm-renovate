@@ -1,0 +1,14 @@
+{
+  "autodiscover": true,
+  "autodiscoverFilter": "milieuinfo/webcomponent*vl*",
+  "assignees": ["coemans"],
+  "enabled": true,
+  "enabledManagers": ["npm"],
+  "encrypted": {
+    "npmToken": "Sd1Yp8NBhdzv+6d0gq16K7zEbZSypYG/GGI371Gc+P9es8+UpctJ74aU9SYboiRnL6gRlpvAigOGy6ujnA+Eq7IgGmSU82l16x/UBFLEX1zQmBcw+6shIq7/O5UUt8whKXOgzBPsjO55orws12if0DXCxzrHqD9xGRGByaHj420RlmZ6NxIsEVkirTVDXFQy5Pcm42XLn1FJ4m7aoNw8D3WZ7XUlhyqPZxnwEx+31gPF6QJb+Zh2jfK9NCi4pG5YGal9Mm+NuCv99oPkQyRlkUzNYUf6ig01FyRwu778p40N91eQKibDI/N+gCdEhPbL5vV8+9Fmhbf+fzuzWCCuxw=="
+  },
+  "labels": ["renovate", "dependencies"],
+  "npmrc": "registry=http://artifactory-pr-build.lb.cumuli.be:8081/artifactory/api/npm/acd-npm/\n_auth=${NPM_TOKEN}",
+  "pruneStaleBranches": true,
+  "reviewers": ["coemans"]
+}
